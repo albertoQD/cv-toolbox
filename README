@@ -1,0 +1,8 @@
+Here you have the *.m and *.fig files for the Computer Vision toolbox (Image processing, Stereo and Non-stereo vision) created for Matlab r2012a as one of the projects for the MsCV. For using the toolbox please refer to the documentation.
+
+The aim of this project was to learn and use the already available tools, so, do not expect to find the implementation of any algorithm from scratch. Although it could be useful to see how to process a video in a non-blocking way.
+
+Also, the webcam part can be improved a lot (refer to the documentation).
+
+--
+Alberto
